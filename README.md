@@ -17,3 +17,16 @@ Na aplicação foi criado um jogo da Velha com javascript que tem opcão de ser 
 link repositorio do jogo:
 https://github.com/JoaoP3droMM/Jogo-da-Velha
  
+##Referencias
+https://midia.market/conteudos/consumo/como-funciona-a-inteligencia-artificial/
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-AIs-breakout-year
+https://builtin.com/artificial-intelligence/ai-trends-2023
+https://www.ibm.com/think/insights/artificial-intelligence-trends
+https://www.geeksforgeeks.org/programming-paradigms/
+https://pytorch.org/
+https://chatgpt.com/
+https://www.tensorflow.org/?hl=pt-br
+https://consumidormoderno.com.br/20-curiosidades-nteligencia-artificial/
+https://www.hardware.com.br/artigos/13-curiosidades-sobre-a-inteligencia-artificial/
+https://www.youtube.com/watch?v=IH-wBijX53M
+https://gemini.google.com/
