@@ -1,4 +1,5 @@
 ﻿# Tendecias---IA
+ https://tendecias-ia.vercel.app/
 
 ## História da IA - João Gabriel
 Conta sobre a história da IA desde de sua criação até os dias atuais.
